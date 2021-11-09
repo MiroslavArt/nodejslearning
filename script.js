@@ -1,2 +1,6 @@
-var a = 1
+var a = process.argv[2]
+var b = process.argv[3]
+
+console.log(a)
+console.log(b)
 
