@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "lesson-1",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node script.js",
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiroslavArt/nodejslearning.git"
+  },
+  "keywords": [
+    "less-1"
+  ],
+  "author": "Miroslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiroslavArt/nodejslearning/issues"
+  },
+  "homepage": "https://github.com/MiroslavArt/nodejslearning#readme",
+  "dependencies": {
+    "color": "^4.0.1",
+    "colors": "^1.4.0"
+  }
+}
