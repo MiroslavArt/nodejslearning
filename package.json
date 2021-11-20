@@ -5,6 +5,7 @@
   "main": "script.js",
   "scripts": {
     "dev": "node script.js",
+    "start": "node less_4.js",
     "test": "ok"
   },
   "repository": {
@@ -22,6 +23,8 @@
   "homepage": "https://github.com/MiroslavArt/nodejslearning#readme",
   "dependencies": {
     "color": "^4.0.1",
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "yargs": "^17.2.1"
   }
 }
